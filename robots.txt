@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: 
+Sitemap: https://prasanthscipy.github.io/Coffee-Products/sitemap.xml
